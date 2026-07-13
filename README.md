@@ -3,7 +3,7 @@
 # 𝑫𝒆𝒃𝒂𝒔𝒊𝒔𝒉 𝑫𝒆𝒃𝒏𝒂𝒕𝒉
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Node.js+%2B+TypeScript+Backend+Developer;Building+Backend+Systems+%E2%80%94+Multi-Tenant+SaaS;Published+%40debasish-debnath%2Fratelimiter+on+npm;Currently+diving+into+GEN AI+%2B+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Node.js+%2B+TypeScript+Backend+Developer;Building+Backend+Systems+%E2%80%94+Multi-Tenant+SaaS;Published+%40debasish-debnath%2Fratelimiter+on+npm;Currently+diving+into+GENAI+%2B+Distributed+Systems" alt="Typing SVG" />
 </p>
 
 
