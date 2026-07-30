@@ -41,8 +41,8 @@ const debasish = {
   languages: ["TypeScript", "JavaScript", "C++"],
   backend: ["Node.js", "Express", "REST APIs"],
   databases: ["PostgreSQL", "MongoDB", "Redis"],
-  tools: ["Docker", "Git", "Linux", "AWS", "Azure],
-  learning: ["System Design", "Distributed Systems", "Microservices", "Gen AI],
+  tools: ["Docker", "Git", "Linux", "AWS", "Azure"],
+  learning: ["System Design", "Distributed Systems", "Microservices", "Gen AI"],
 };
 ```
 
